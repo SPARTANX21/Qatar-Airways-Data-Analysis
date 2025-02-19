@@ -1,4 +1,9 @@
 # Qatar-Airways-Data-Analysis
+# Power BI Report
+
+Click the link below to view the Power BI report:
+
+[![Power BI Report](https://img.shields.io/badge/View-Power%20BI-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNTFhZDdhYmYtMzBlYS00MDA4LTgyYzgtNzAzMzBmOWM0NTc2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Steps Performed
 
